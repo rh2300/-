@@ -7,7 +7,8 @@
 <style>
 body{
     margin:0;
-    background:black;
+    background:white;
+    color:browm;
     display:flex;
     justify-content:center;
     align-items:center;
