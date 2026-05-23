@@ -15,7 +15,6 @@ body{
     align-items:center;
     height:100vh;
 }
-<img src="images/koinu.jpg">
 audio{
     width:300px;
 }
@@ -23,9 +22,9 @@ audio{
 </head>
 
 <body>
-
+<img src="koinu.jpg">
 <audio controls autoplay>
-    <source src="Project_146.mp3" type="audio/mpeg">
+<source src="Project_146.mp3" type="audio/mpeg">
 </audio>
 
 </body>
