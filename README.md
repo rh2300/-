@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<img src="images/koinu.jpg">
 <title>真写の犬仔</title>
 
 <style>
@@ -16,6 +15,7 @@ body{
     align-items:center;
     height:100vh;
 }
+<img src="images/koinu.jpg">
 audio{
     width:300px;
 }
