@@ -14,6 +14,7 @@ body{
     justify-content:center;
     align-items:center;
     height:100vh;
+    gap:20px;
 
 }
 audio{
