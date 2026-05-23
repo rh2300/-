@@ -19,6 +19,7 @@ body{
 }
 audio{
     width:300px;
+    margin-left:50px;
 }
 </style>
 </head>
